@@ -15,7 +15,3 @@
 - ♿ **Accessibility Focused**: Semantic HTML structure and proper ARIA labels
 - ⚡ **Performance Optimized**: Zero external dependencies, fast load times
 - 🔗 **Easy Customization**: Well-commented code with CSS custom properties
-
----
-
-## 📁 Project Structure
